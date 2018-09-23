@@ -52,10 +52,10 @@ navigate to Datadog APM UI and notice traces now reporting!
 
 run our helloworld sample container a few times. the message prints to stdout/stderr so we should now be able to see Agent AND helloworld logs in the Log Management UI. Navigate to UI to confirm
 
-## 4 Explore the agent's autodiscovery capabilities
+## 4. Explore the agent's autodiscovery capabilities
 - `docker pull redis:latest`
 - `docker images`
-- `docker run --name my-redis redis`
+- `docker run --name my-redis -d redis`
 
 Navigate to your Datadog account and check the Infrastructure list to see Redis container reporting and metrics coming in.
 
