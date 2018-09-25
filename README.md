@@ -1,7 +1,7 @@
 # Small Docker 101 Exercise
 
 
-_This exercise assumes you've got an Ubuntu VM up and running with docker installed. I used 16.04 and followed the guide here: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04 _ 
+_This exercise assumes you've got an Ubuntu VM up and running with docker installed. I used 16.04 and followed the guide here: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04_ 
 
 ## 1. Build a Docker image
 
